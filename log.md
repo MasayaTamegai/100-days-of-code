@@ -14,7 +14,7 @@
 
 **Thoughts**: I hear that most coders don't have everything memorized and that Googling answers is ok... right? Well,  I've been at this coding for almost 2 years now and I feel like I'm trying all kinds of ways to approach coding.  Up until recently I never gave Google too much use but now that I'm in that rhythm I hope I can start to get the hang of it.
 
-**Link to work:** https://www.freecodecamp.com/masayatamegai
+**Link to work:** https://www.freecodecamp.com/masayatamegai 
 
 
 
