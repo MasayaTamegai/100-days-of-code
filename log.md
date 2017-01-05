@@ -24,6 +24,12 @@
 
 **Link to work:** https://www.freecodecamp.com/masayatamegai
 
+### Day 3: January 5th, 2017
 
+**Today's Progress**: Not much progess today... only 2 challenges.   
+
+**Thoughts**: GEE WHIZ! Some of these challenges just make my brain bleed or something by thinking so hard.  https://www.freecodecamp.com/challenges/stand-in-line This challenge for some reason is not letting me through.  I think I have an idea of how to go about it but I feel like I'm missing a vital peice of info.  Maybe tomorrow I'll have better luck or maybe I can just brush up on my HTML and CSS and make some interests pages.
+
+**Link to work:** https://www.freecodecamp.com/masayatamegai
 
 
