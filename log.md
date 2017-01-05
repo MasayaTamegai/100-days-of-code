@@ -16,6 +16,14 @@
 
 **Link to work:** https://www.freecodecamp.com/masayatamegai 
 
+### Day 2: January 4th, 2017
+
+**Today's Progress**: I got 16 in.   
+
+**Thoughts**: Much easier today... or tonight than it was yesterday.  I didn't get too stuck for too long.
+
+**Link to work:** https://www.freecodecamp.com/masayatamegai
+
 
 
 
